@@ -9,6 +9,9 @@
 
 ## Using React Native Health (IOS) and Google Fit (Android) API
 
+- React Native Health - IOS `https://github.com/agencyenterprise/react-native-health#readme`
+- React Native Google Fit - Android `https://github.com/StasDoskalenko/react-native-google-fit#readme`
+
 ## Project Setup Steps
 
 - Setting up the react native development environment
